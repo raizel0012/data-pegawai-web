@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f2f2f2;
+}
+h2 {
+    color: #333;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #fff;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+form {
+    background: #fff;
+    padding: 20px;
+    width: 400px;
+    border-radius: 8px;
+}
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
